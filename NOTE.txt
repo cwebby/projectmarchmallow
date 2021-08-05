@@ -1,0 +1,3 @@
+With 2D being post processing and raymarching and 3D being explored here as much as I wish to on a learning experience, I don't feel the need to expore sprite rendering per se, but, I'm currently amidst making a game that could potentially take advantage of just rendering quads to be raytraced, so naturally, I'll come back here to experiment.
+
+Similarly, a set post processing stack must wait until properly designed to be implemented. This will be done soon as ray tracing is almost a post process in essence of all work being done in an equivalent of a frag shader on a fsquad.
